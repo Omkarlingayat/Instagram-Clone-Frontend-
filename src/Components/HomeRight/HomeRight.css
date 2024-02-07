@@ -1,0 +1,19 @@
+.switch{
+   color: blue;
+   margin-left: 170px;
+    padding-top: 8px;
+}
+
+.switch:hover{
+    opacity: 50;
+}
+
+.follow{
+   color: blue;
+   margin-left: 160px;
+    padding-top: 8px;
+}
+
+.follow:hover{
+    opacity: 50;
+}
